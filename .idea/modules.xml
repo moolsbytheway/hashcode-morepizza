@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hashcode.morepizza.iml" filepath="$PROJECT_DIR$/hashcode.morepizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hashcode.morepizza_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hashcode.morepizza_main.iml" group="hashcode.morepizza" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hashcode.morepizza_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hashcode.morepizza_test.iml" group="hashcode.morepizza" />
+    </modules>
+  </component>
+</project>
